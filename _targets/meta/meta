@@ -1,0 +1,10 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+df|stem|11169d0b7f604a69|6baf2e9961658392|2c530c1562a7fbd1|1719518045||t20504.4999228215s|s9882b|9882|rds|local|vector|||0||
+scales_list|stem|1af88c6b10c0363e|ef8c5fce6a86504b|e46e5179a663fc49|696915395||t20504.4999230761s|s248b|248|rds|local|vector|||0||
+df_lca|stem|2fd21b5ef0ed4f31|49aa14e710aa3de1|c9745ea496e75896|-1283726634||t20504.499928418s|s2760b|2760|rds|local|vector|||0.42||
+res_lpa|stem|5041854d40cbeb3f|ebab30be300d19d1|4d992bdd91e25e1e|903796445||t20504.5026449045s|s424325b|424325|rds|local|vector|||234.69||
+tab_fit|stem|c46dc346ea80c9db|24b3b6df8f775e7e|6691aec5d8ba4df5|-986586640||t20504.5026469927s|s769b|769|rds|local|vector|||0.16||
+manuscript|stem|1907ac89b67dcdb0|556b837535542409|543ad6210b7b13c4|-1793997187|manuscript/manuscript.md*manuscript/manuscript.Rmd|t20504.5057304302s|s3341b|3341|file|local|vector|||0.8||
+make_fit_table|function|ee27c590395b1fc2
+make_scales|function|14d70d5aed07132f
+.Random.seed|object|76393a2975da8475

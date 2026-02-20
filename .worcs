@@ -2,5 +2,6 @@ worcs_version: 0.1.19
 creator: Studio
 entry_point: manuscript/manuscript.Rmd
 recipe:
-  recipe: rmarkdown::render('manuscript/manuscript.Rmd')
+  recipe: targets::tar_make()
   terminal: no
+testthat_endpoint: yes
